@@ -142,7 +142,7 @@ src/
 
 - [spec.md](spec.md) — 仕様書
 - [TESTING.md](TESTING.md) — テスト方針とテストケース一覧
-- [.github/README.md](.github/README.md) — CI（自動コードレビュー）の説明
+- [.github/CI.md](.github/CI.md) — CI（自動コードレビュー）の説明
 
 ## 今後の予定
 
